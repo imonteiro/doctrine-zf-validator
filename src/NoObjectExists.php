@@ -1,6 +1,6 @@
 <?php
 
-namespace Doctrine\Validator;
+namespace Doctrine\Zend\Validator;
 
 /**
  * Class that validates if objects does not exist in a given repository with a given list of matched fields

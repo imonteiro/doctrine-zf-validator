@@ -1,10 +1,10 @@
 <?php
 
-namespace DoctrineTest\Validator\Adapter;
+namespace DoctrineTest\Zend\Validator;
 
 use stdClass;
 use PHPUnit\Framework\TestCase as BaseTestCase;
-use Doctrine\Validator\UniqueObject;
+use Doctrine\Zend\Validator\UniqueObject;
 
 /**
  * Tests for the UniqueObject validator

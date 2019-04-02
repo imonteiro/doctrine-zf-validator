@@ -1,9 +1,9 @@
 <?php
 
-namespace DoctrineTest;
+namespace DoctrineTest\Zend\Validator;
 
 use PHPUnit\Framework\TestCase;
-use Doctrine\Module;
+use Doctrine\Zend\Module;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Console\Input\InputInterface;
 

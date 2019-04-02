@@ -1,10 +1,10 @@
 <?php
 
-namespace DoctrineTest\Validator\Adapter;
+namespace DoctrineTest\Zend\Validator;
 
 use stdClass;
 use PHPUnit\Framework\TestCase as BaseTestCase;
-use Doctrine\Validator\NoObjectExists;
+use Doctrine\Zend\Validator\NoObjectExists;
 
 /**
  * Tests for the NoObjectExists tests

@@ -1,7 +1,7 @@
 <?php
 return [
     'modules' => [
-        'Zend\Validator',
+        'Doctrine\Zend\Validator',
     ],
     'module_listener_options' => [
         'config_glob_paths' => [],

@@ -1,6 +1,6 @@
 <?php
 
-namespace Doctrine\Validator\Service;
+namespace Doctrine\Zend\Validator\Service;
 
 use PHPUnit\Framework\TestCase;
 use Doctrine\Validator\UniqueObject;

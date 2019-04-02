@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Doctrine\Validator\Service\Exception;
+namespace Doctrine\Zend\Validator\Service\Exception;
 
 use RuntimeException as BaseRuntimeException;
 

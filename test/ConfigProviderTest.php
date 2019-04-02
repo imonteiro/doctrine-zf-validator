@@ -1,8 +1,8 @@
 <?php
 
-namespace DoctrineTest;
+namespace DoctrineTest\Zend\Validator;
 
-use Doctrine\ConfigProvider;
+use Doctrine\Zend\ConfigProvider;
 use PHPUnit\Framework\TestCase;
 
 /**

@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Doctrine\Validator\Service;
+namespace Doctrine\Zend\Validator\Service;
 
 use Interop\Container\ContainerInterface;
-use Doctrine\Validator\UniqueObject;
+use Doctrine\Zend\Validator\UniqueObject;
 
 class UniqueObjectFactory extends AbstractValidatorFactory
 {

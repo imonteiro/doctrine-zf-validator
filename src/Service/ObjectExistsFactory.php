@@ -4,7 +4,7 @@
 namespace Doctrine\Validator\Service;
 
 use Interop\Container\ContainerInterface;
-use Doctrine\Validator\ObjectExists;
+use Doctrine\Zend\Validator\ObjectExists;
 
 /**
  * Factory for creating ObjectExists instances

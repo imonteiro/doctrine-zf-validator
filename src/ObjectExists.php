@@ -1,6 +1,6 @@
 <?php
 
-namespace Doctrine\Validator;
+namespace Doctrine\Zend\Validator;
 
 use Zend\Validator\AbstractValidator;
 use Zend\Validator\Exception;

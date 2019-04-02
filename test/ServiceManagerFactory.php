@@ -1,6 +1,6 @@
 <?php
 
-namespace DoctrineTest;
+namespace DoctrineTest\Zend\Validator;
 
 use Zend\Mvc\Service\ServiceManagerConfig;
 use Zend\ServiceManager\ServiceManager;

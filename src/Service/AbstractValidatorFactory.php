@@ -1,13 +1,13 @@
 <?php
 
 
-namespace Doctrine\Validator\Service;
+namespace Doctrine\Zend\Validator\Service;
 
 use Zend\ServiceManager\FactoryInterface;
 use Interop\Container\ContainerInterface;
 use Zend\ServiceManager\ServiceLocatorInterface;
 use Zend\ServiceManager\ServiceLocatorAwareInterface;
-use Doctrine\Validator\Service\Exception\ServiceCreationException;
+use Doctrine\Zend\Validator\Service\Exception\ServiceCreationException;
 use Zend\Stdlib\ArrayUtils;
 
 /**

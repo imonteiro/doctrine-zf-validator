@@ -1,6 +1,6 @@
 <?php
 
-namespace Doctrine;
+namespace Doctrine\Zend\Validator;
 
 /**
  * Base module for integration of Doctrine projects with ZF2 applications
