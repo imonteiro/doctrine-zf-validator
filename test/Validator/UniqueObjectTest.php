@@ -1,10 +1,10 @@
 <?php
 
-namespace DoctrineModuleTest\Validator\Adapter;
+namespace DoctrineTest\Validator\Adapter;
 
 use stdClass;
 use PHPUnit\Framework\TestCase as BaseTestCase;
-use DoctrineModule\Validator\UniqueObject;
+use Doctrine\Validator\UniqueObject;
 
 /**
  * Tests for the UniqueObject validator

@@ -1,6 +1,6 @@
 <?php
 
-namespace DoctrineModuleTest;
+namespace DoctrineTest;
 
 use Zend\Mvc\Service\ServiceManagerConfig;
 use Zend\ServiceManager\ServiceManager;

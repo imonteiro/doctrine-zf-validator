@@ -1,9 +1,9 @@
 <?php
 
-namespace DoctrineModule\Validator\Service;
+namespace Doctrine\Validator\Service;
 
 use PHPUnit\Framework\TestCase;
-use DoctrineModule\Validator\ObjectExists;
+use Doctrine\Validator\ObjectExists;
 use Doctrine\Common\Persistence\ObjectManager;
 use Doctrine\Common\Persistence\ObjectRepository;
 use Interop\Container\ContainerInterface;

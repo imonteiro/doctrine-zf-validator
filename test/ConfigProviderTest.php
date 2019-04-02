@@ -1,8 +1,8 @@
 <?php
 
-namespace DoctrineModuleTest;
+namespace DoctrineTest;
 
-use DoctrineModule\ConfigProvider;
+use Doctrine\ConfigProvider;
 use PHPUnit\Framework\TestCase;
 
 /**

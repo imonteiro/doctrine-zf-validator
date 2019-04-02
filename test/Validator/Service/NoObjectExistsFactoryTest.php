@@ -1,11 +1,11 @@
 <?php
 
-namespace DoctrineModule\Validator\Service;
+namespace Doctrine\Validator\Service;
 
 use PHPUnit\Framework\TestCase;
 use Zend\ServiceManager\ServiceLocatorInterface;
 use Zend\ServiceManager\ServiceLocatorAwareInterface;
-use DoctrineModule\Validator\NoObjectExists;
+use Doctrine\Validator\NoObjectExists;
 use Doctrine\Common\Persistence\ObjectManager;
 use Doctrine\Common\Persistence\ObjectRepository;
 use Interop\Container\ContainerInterface;

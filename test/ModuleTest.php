@@ -1,9 +1,9 @@
 <?php
 
-namespace DoctrineModuleTest;
+namespace DoctrineTest;
 
 use PHPUnit\Framework\TestCase;
-use DoctrineModule\Module;
+use Doctrine\Module;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Console\Input\InputInterface;
 
