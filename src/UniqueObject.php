@@ -1,6 +1,6 @@
 <?php
 
-namespace DoctrineModule\Validator;
+namespace Doctrine\Validator;
 
 use Doctrine\Common\Persistence\ObjectManager;
 use Zend\Validator\Exception;

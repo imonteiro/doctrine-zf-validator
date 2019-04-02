@@ -1,10 +1,10 @@
 <?php
 
 
-namespace DoctrineModule\Validator\Service;
+namespace Doctrine\Validator\Service;
 
 use Interop\Container\ContainerInterface;
-use DoctrineModule\Validator\NoObjectExists;
+use Doctrine\Validator\NoObjectExists;
 
 /**
  * Factory for creating NoObjectExists instances

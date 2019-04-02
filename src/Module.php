@@ -1,6 +1,6 @@
 <?php
 
-namespace DoctrineModule;
+namespace Doctrine;
 
 /**
  * Base module for integration of Doctrine projects with ZF2 applications
